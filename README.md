@@ -1,3 +1,14 @@
+# Hi there, I'm **Vibodha Liyanage** 👋
+Welcome to my GitHub profile! I'm a passionate developer dedicated to building innovative solutions and continuously learning new technologies.
+## About Me
+Hello! I'm **Vibodha Liyanage**. I am a software developer with a keen interest in exploring new technologies and creating efficient solutions to real-world problems.
+- 🔭 **Current Projects:** Working on web and Desktop apps with focus on user experiences.
+- 👯 **Collaboration:** Open to exciting collaboration opportunities.
+- 📫 **Contact:** Reach me at [Vibodhaliyanage.astea@gmail].com".
+- ⚡ **Fun Fact:** Love traveling, solving tech challenges.
+
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vibodha.liyanage.1/ Vibodha Liyanage) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vibodha-liyanage-b87188281/ Vibodha Liyanage) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vibodaliyanage274@gmail.com) 
